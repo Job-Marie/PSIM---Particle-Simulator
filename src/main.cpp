@@ -12,7 +12,7 @@ int main()
     constexpr float HEIGHT = 600.f;
     constexpr float RADIUS = 10.f;
 
-    sf::RenderWindow window(sf::VideoMode({(unsigned)WIDTH, (unsigned)HEIGHT}), "Particule Simulator - Jour 2");
+    sf::RenderWindow window(sf::VideoMode({(unsigned)WIDTH, (unsigned)HEIGHT}), "Particule Simulator");
 
     Clock clock;
     Simulator simulator;
