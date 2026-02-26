@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/start/Concret/psim/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -external:I\"C:\\SFML\\SDK\\SFML-3.0.2 msvc\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\psim.dir\\src\\main.cpp.obj /FdCMakeFiles\\psim.dir\\ /FS -c C:\\start\\Concret\\psim\\src\\main.cpp",
+  "file": "C:\\start\\Concret\\psim\\src\\main.cpp",
+  "output": "CMakeFiles\\psim.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/start/Concret/psim/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -external:I\"C:\\SFML\\SDK\\SFML-3.0.2 msvc\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\psim.dir\\src\\Particle.cpp.obj /FdCMakeFiles\\psim.dir\\ /FS -c C:\\start\\Concret\\psim\\src\\Particle.cpp",
+  "file": "C:\\start\\Concret\\psim\\src\\Particle.cpp",
+  "output": "CMakeFiles\\psim.dir\\src\\Particle.cpp.obj"
+},
+{
+  "directory": "C:/start/Concret/psim/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -external:I\"C:\\SFML\\SDK\\SFML-3.0.2 msvc\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\psim.dir\\src\\Simulator.cpp.obj /FdCMakeFiles\\psim.dir\\ /FS -c C:\\start\\Concret\\psim\\src\\Simulator.cpp",
+  "file": "C:\\start\\Concret\\psim\\src\\Simulator.cpp",
+  "output": "CMakeFiles\\psim.dir\\src\\Simulator.cpp.obj"
+}
+]
