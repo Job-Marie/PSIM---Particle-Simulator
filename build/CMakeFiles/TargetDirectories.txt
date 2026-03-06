@@ -1,3 +1,0 @@
-C:/start/Concret/psim/build/CMakeFiles/psim.dir
-C:/start/Concret/psim/build/CMakeFiles/edit_cache.dir
-C:/start/Concret/psim/build/CMakeFiles/rebuild_cache.dir
